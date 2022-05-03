@@ -7,7 +7,6 @@ SELECT COUNT(ID)
 FROM athlete_events$
 --271116 athletes participated in olympics.
 
-SELECT 
 --I want to find number of Medals in Olympics. 
 
 SELECT Medal,COUNT(Medal) AS count_medal
